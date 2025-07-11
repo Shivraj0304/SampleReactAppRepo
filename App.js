@@ -16,7 +16,7 @@ React.createElement("h2", {}, "I am an h2 tag")
 
 console.log(parent); // object
 
-// JSX
+// JSX 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
