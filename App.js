@@ -18,5 +18,7 @@ console.log(parent); // object
 
 // JSX 
 
+
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
