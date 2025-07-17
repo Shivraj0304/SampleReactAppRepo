@@ -1,1 +1,1 @@
-# My Sample practice react app
+# My Sample practice react application
